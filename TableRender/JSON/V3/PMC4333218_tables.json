@@ -1,0 +1,1387 @@
+{
+    "source": "Auto-CORPus (tables)",
+    "date": "20220610",
+    "key": "autocorpus_tables.key",
+    "infons": {},
+    "documents": [
+        {
+            "inputFile": "/home/tr142/Downloads/50gwasHTML/PMC4333218.html",
+            "id": "1_1",
+            "infons": {},
+            "passages": [
+                {
+                    "offset": 0,
+                    "infons": {
+                        "section_title_1": "table_title",
+                        "iao_name_1": "document title",
+                        "iao_id_1": "IAO:0000305"
+                    },
+                    "text": "Table 1",
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 7,
+                    "infons": {
+                        "section_title_1": "table_caption",
+                        "iao_name_1": "caption",
+                        "iao_id_1": "IAO:0000304"
+                    },
+                    "text": "Within-Pair Correlations",
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 31,
+                    "infons": {
+                        "section_title_1": "table_content",
+                        "iao_name_1": "table",
+                        "iao_id_1": "IAO:0000306"
+                    },
+                    "annotations": [],
+                    "relations": [],
+                    "column_headings": [
+                        {
+                            "cell_id": "1.1.1",
+                            "cell_text": "Cohort"
+                        },
+                        {
+                            "cell_id": "1.1.2",
+                            "cell_text": "HDL"
+                        },
+                        {
+                            "cell_id": "1.1.3",
+                            "cell_text": "LDL"
+                        },
+                        {
+                            "cell_id": "1.1.4",
+                            "cell_text": "TC"
+                        },
+                        {
+                            "cell_id": "1.1.5",
+                            "cell_text": "TG"
+                        },
+                        {
+                            "cell_id": "1.1.6",
+                            "cell_text": "APOA1"
+                        },
+                        {
+                            "cell_id": "1.1.7",
+                            "cell_text": "APOA2"
+                        },
+                        {
+                            "cell_id": "1.1.8",
+                            "cell_text": "APOB"
+                        },
+                        {
+                            "cell_id": "1.1.9",
+                            "cell_text": "APOE"
+                        }
+                    ],
+                    "data_section": [
+                        {
+                            "annotations": [],
+                            "relations": [],
+                            "data_rows": [
+                                [
+                                    {
+                                        "cell_id": "1.1.1",
+                                        "cell_text": "Australia"
+                                    },
+                                    {
+                                        "cell_id": "1.1.2",
+                                        "cell_text": 0.611
+                                    },
+                                    {
+                                        "cell_id": "1.1.3",
+                                        "cell_text": 0.587
+                                    },
+                                    {
+                                        "cell_id": "1.1.4",
+                                        "cell_text": 0.597
+                                    },
+                                    {
+                                        "cell_id": "1.1.5",
+                                        "cell_text": 0.515
+                                    },
+                                    {
+                                        "cell_id": "1.1.6",
+                                        "cell_text": 0.59
+                                    },
+                                    {
+                                        "cell_id": "1.1.7",
+                                        "cell_text": 0.462
+                                    },
+                                    {
+                                        "cell_id": "1.1.8",
+                                        "cell_text": 0.69
+                                    },
+                                    {
+                                        "cell_id": "1.1.9",
+                                        "cell_text": 0.57
+                                    }
+                                ],
+                                [
+                                    {
+                                        "cell_id": "1.2.1",
+                                        "cell_text": "UK"
+                                    },
+                                    {
+                                        "cell_id": "1.2.2",
+                                        "cell_text": 0.67
+                                    },
+                                    {
+                                        "cell_id": "1.2.3",
+                                        "cell_text": 0.688
+                                    },
+                                    {
+                                        "cell_id": "1.2.4",
+                                        "cell_text": 0.687
+                                    },
+                                    {
+                                        "cell_id": "1.2.5",
+                                        "cell_text": 0.657
+                                    },
+                                    {
+                                        "cell_id": "1.2.6",
+                                        "cell_text": "na"
+                                    },
+                                    {
+                                        "cell_id": "1.2.7",
+                                        "cell_text": "na"
+                                    },
+                                    {
+                                        "cell_id": "1.2.8",
+                                        "cell_text": "na"
+                                    },
+                                    {
+                                        "cell_id": "1.2.9",
+                                        "cell_text": "na"
+                                    }
+                                ],
+                                [
+                                    {
+                                        "cell_id": "1.3.1",
+                                        "cell_text": "Sweden"
+                                    },
+                                    {
+                                        "cell_id": "1.3.2",
+                                        "cell_text": 0.634
+                                    },
+                                    {
+                                        "cell_id": "1.3.3",
+                                        "cell_text": 0.355
+                                    },
+                                    {
+                                        "cell_id": "1.3.4",
+                                        "cell_text": 0.306
+                                    },
+                                    {
+                                        "cell_id": "1.3.5",
+                                        "cell_text": 0.471
+                                    },
+                                    {
+                                        "cell_id": "1.3.6",
+                                        "cell_text": 0.638
+                                    },
+                                    {
+                                        "cell_id": "1.3.7",
+                                        "cell_text": "na"
+                                    },
+                                    {
+                                        "cell_id": "1.3.8",
+                                        "cell_text": 0.418
+                                    },
+                                    {
+                                        "cell_id": "1.3.9",
+                                        "cell_text": "na"
+                                    }
+                                ],
+                                [
+                                    {
+                                        "cell_id": "1.4.1",
+                                        "cell_text": "Finland"
+                                    },
+                                    {
+                                        "cell_id": "1.4.2",
+                                        "cell_text": 0.756
+                                    },
+                                    {
+                                        "cell_id": "1.4.3",
+                                        "cell_text": 0.495
+                                    },
+                                    {
+                                        "cell_id": "1.4.4",
+                                        "cell_text": 0.443
+                                    },
+                                    {
+                                        "cell_id": "1.4.5",
+                                        "cell_text": 0.519
+                                    },
+                                    {
+                                        "cell_id": "1.4.6",
+                                        "cell_text": 0.44
+                                    },
+                                    {
+                                        "cell_id": "1.4.7",
+                                        "cell_text": 0.263
+                                    },
+                                    {
+                                        "cell_id": "1.4.8",
+                                        "cell_text": 0.409
+                                    },
+                                    {
+                                        "cell_id": "1.4.9",
+                                        "cell_text": "na"
+                                    }
+                                ],
+                                [
+                                    {
+                                        "cell_id": "1.5.1",
+                                        "cell_text": "Denmark"
+                                    },
+                                    {
+                                        "cell_id": "1.5.2",
+                                        "cell_text": 0.593
+                                    },
+                                    {
+                                        "cell_id": "1.5.3",
+                                        "cell_text": 0.768
+                                    },
+                                    {
+                                        "cell_id": "1.5.4",
+                                        "cell_text": 0.769
+                                    },
+                                    {
+                                        "cell_id": "1.5.5",
+                                        "cell_text": 0.558
+                                    },
+                                    {
+                                        "cell_id": "1.5.6",
+                                        "cell_text": 0.777
+                                    },
+                                    {
+                                        "cell_id": "1.5.7",
+                                        "cell_text": "na"
+                                    },
+                                    {
+                                        "cell_id": "1.5.8",
+                                        "cell_text": 0.649
+                                    },
+                                    {
+                                        "cell_id": "1.5.9",
+                                        "cell_text": 0.314
+                                    }
+                                ],
+                                [
+                                    {
+                                        "cell_id": "1.6.1",
+                                        "cell_text": "Netherlands"
+                                    },
+                                    {
+                                        "cell_id": "1.6.2",
+                                        "cell_text": 0.629
+                                    },
+                                    {
+                                        "cell_id": "1.6.3",
+                                        "cell_text": 0.664
+                                    },
+                                    {
+                                        "cell_id": "1.6.4",
+                                        "cell_text": 0.669
+                                    },
+                                    {
+                                        "cell_id": "1.6.5",
+                                        "cell_text": 0.537
+                                    },
+                                    {
+                                        "cell_id": "1.6.6",
+                                        "cell_text": 0.847
+                                    },
+                                    {
+                                        "cell_id": "1.6.7",
+                                        "cell_text": 0.528
+                                    },
+                                    {
+                                        "cell_id": "1.6.8",
+                                        "cell_text": 0.801
+                                    },
+                                    {
+                                        "cell_id": "1.6.9",
+                                        "cell_text": 0.942
+                                    }
+                                ],
+                                [
+                                    {
+                                        "cell_id": "1.8.1",
+                                        "cell_text": "Combined mean"
+                                    },
+                                    {
+                                        "cell_id": "1.8.2",
+                                        "cell_text": 0.651
+                                    },
+                                    {
+                                        "cell_id": "1.8.3",
+                                        "cell_text": 0.595
+                                    },
+                                    {
+                                        "cell_id": "1.8.4",
+                                        "cell_text": 0.589
+                                    },
+                                    {
+                                        "cell_id": "1.8.5",
+                                        "cell_text": 0.552
+                                    },
+                                    {
+                                        "cell_id": "1.8.6",
+                                        "cell_text": 0.638
+                                    },
+                                    {
+                                        "cell_id": "1.8.7",
+                                        "cell_text": 0.461
+                                    },
+                                    {
+                                        "cell_id": "1.8.8",
+                                        "cell_text": 0.598
+                                    },
+                                    {
+                                        "cell_id": "1.8.9",
+                                        "cell_text": 0.531
+                                    }
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "offset": 113,
+                    "infons": {
+                        "section_title_1": "table_footer",
+                        "iao_name_1": "caption",
+                        "iao_id_1": "IAO:0000304"
+                    },
+                    "text": "Note: The within MZ twin pair correlations for high density lipoprotein cholesterol (HDL), low density lipoprotein cholesterol (LDL), total cholesterol (TC), logarithmized triglyceride (TG), logarithmized apolipoproteins A1 (APOA1), A2 (APOA2), B (APOB) and E (APOE). No adjustment for age was applied. The combined means have been calculated using weights based on the size of the cohort. na: not available",
+                    "annotations": [],
+                    "relations": []
+                }
+            ],
+            "annotations": [],
+            "relations": []
+        },
+        {
+            "inputFile": "/home/tr142/Downloads/50gwasHTML/PMC4333218.html",
+            "id": "2_1",
+            "infons": {},
+            "passages": [
+                {
+                    "offset": 0,
+                    "infons": {
+                        "section_title_1": "table_title",
+                        "iao_name_1": "document title",
+                        "iao_id_1": "IAO:0000305"
+                    },
+                    "text": "Table 2",
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 7,
+                    "infons": {
+                        "section_title_1": "table_caption",
+                        "iao_name_1": "caption",
+                        "iao_id_1": "IAO:0000304"
+                    },
+                    "text": "Intra-Pair Difference Association Meta-Analysis Results",
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 62,
+                    "infons": {
+                        "section_title_1": "table_content",
+                        "iao_name_1": "table",
+                        "iao_id_1": "IAO:0000306"
+                    },
+                    "annotations": [
+                        {
+                            "text": "rs2483058",
+                            "infons": {
+                                "type": "genetic_variant",
+                                "identifier": "dbSNP:rs2483058",
+                                "annotator": "GWASMiner@le.ac.uk",
+                                "updated_at": "2022-06-10T16:16:22Z"
+                            },
+                            "id": "V0",
+                            "locations": [
+                                {
+                                    "offset": 0,
+                                    "length": 9,
+                                    "table_element": "table_content",
+                                    "cell_id": "1.1.2"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "3.98 × 10<sup>−8</sup>",
+                            "infons": {
+                                "type": "significance",
+                                "identifier": "PVAL",
+                                "annotator": "GWASMiner@le.ac.uk",
+                                "updated_at": "2022-06-10T16:16:22Z"
+                            },
+                            "id": "S0",
+                            "locations": [
+                                {
+                                    "offset": 0,
+                                    "length": 22,
+                                    "table_element": "table_content",
+                                    "cell_id": "1.1.9"
+                                }
+                            ]
+                        }
+                    ],
+                    "relations": [],
+                    "column_headings": [
+                        {
+                            "cell_id": "1.1.1",
+                            "cell_text": "Phenotype"
+                        },
+                        {
+                            "cell_id": "1.1.2",
+                            "cell_text": "SNP"
+                        },
+                        {
+                            "cell_id": "1.1.3",
+                            "cell_text": "Chromosome"
+                        },
+                        {
+                            "cell_id": "1.1.4",
+                            "cell_text": "Position Build 36"
+                        },
+                        {
+                            "cell_id": "1.1.5",
+                            "cell_text": "Effect allele"
+                        },
+                        {
+                            "cell_id": "1.1.6",
+                            "cell_text": "Minor allele frequency"
+                        },
+                        {
+                            "cell_id": "1.1.7",
+                            "cell_text": "Beta (SE)"
+                        },
+                        {
+                            "cell_id": "1.1.8",
+                            "cell_text": "N"
+                        },
+                        {
+                            "cell_id": "1.1.9",
+                            "cell_text": "P value"
+                        },
+                        {
+                            "cell_id": "1.1.10",
+                            "cell_text": "Gene"
+                        }
+                    ],
+                    "data_section": [
+                        {
+                            "annotations": [],
+                            "relations": [],
+                            "data_rows": [
+                                [
+                                    {
+                                        "cell_id": "1.1.1",
+                                        "cell_text": "HDL"
+                                    },
+                                    {
+                                        "cell_id": "1.1.2",
+                                        "cell_text": "rs2483058"
+                                    },
+                                    {
+                                        "cell_id": "1.1.3",
+                                        "cell_text": 1.0
+                                    },
+                                    {
+                                        "cell_id": "1.1.4",
+                                        "cell_text": 204693451.0
+                                    },
+                                    {
+                                        "cell_id": "1.1.5",
+                                        "cell_text": "C"
+                                    },
+                                    {
+                                        "cell_id": "1.1.6",
+                                        "cell_text": 0.41
+                                    },
+                                    {
+                                        "cell_id": "1.1.7",
+                                        "cell_text": "0.203 (0.037)"
+                                    },
+                                    {
+                                        "cell_id": "1.1.8",
+                                        "cell_text": 1634.0
+                                    },
+                                    {
+                                        "cell_id": "1.1.9",
+                                        "cell_text": "3.98 × 10<sup>−8</sup>"
+                                    },
+                                    {
+                                        "cell_id": "1.1.10",
+                                        "cell_text": "SRGAP2 (intronic)"
+                                    }
+                                ],
+                                [
+                                    {
+                                        "cell_id": "1.2.1",
+                                        "cell_text": "HDL"
+                                    },
+                                    {
+                                        "cell_id": "1.2.2",
+                                        "cell_text": "rs9242"
+                                    },
+                                    {
+                                        "cell_id": "1.2.3",
+                                        "cell_text": 1.0
+                                    },
+                                    {
+                                        "cell_id": "1.2.4",
+                                        "cell_text": 204704018.0
+                                    },
+                                    {
+                                        "cell_id": "1.2.5",
+                                        "cell_text": "C"
+                                    },
+                                    {
+                                        "cell_id": "1.2.6",
+                                        "cell_text": 0.47
+                                    },
+                                    {
+                                        "cell_id": "1.2.7",
+                                        "cell_text": "0.191 (0.036)"
+                                    },
+                                    {
+                                        "cell_id": "1.2.8",
+                                        "cell_text": 1634.0
+                                    },
+                                    {
+                                        "cell_id": "1.2.9",
+                                        "cell_text": "1.08 × 10<sup>−7</sup>"
+                                    },
+                                    {
+                                        "cell_id": "1.2.10",
+                                        "cell_text": "SRGAP2 (untranslated)"
+                                    }
+                                ],
+                                [
+                                    {
+                                        "cell_id": "1.3.1",
+                                        "cell_text": "TC"
+                                    },
+                                    {
+                                        "cell_id": "1.3.2",
+                                        "cell_text": "rs17826288"
+                                    },
+                                    {
+                                        "cell_id": "1.3.3",
+                                        "cell_text": 3.0
+                                    },
+                                    {
+                                        "cell_id": "1.3.4",
+                                        "cell_text": 109178193.0
+                                    },
+                                    {
+                                        "cell_id": "1.3.5",
+                                        "cell_text": "G"
+                                    },
+                                    {
+                                        "cell_id": "1.3.6",
+                                        "cell_text": 0.38
+                                    },
+                                    {
+                                        "cell_id": "1.3.7",
+                                        "cell_text": "−0.178 (0.036)"
+                                    },
+                                    {
+                                        "cell_id": "1.3.8",
+                                        "cell_text": 1720.0
+                                    },
+                                    {
+                                        "cell_id": "1.3.9",
+                                        "cell_text": "8.16 × 10<sup>−7</sup>"
+                                    },
+                                    {
+                                        "cell_id": "1.3.10",
+                                        "cell_text": "66 kb downstream of CD47"
+                                    }
+                                ],
+                                [
+                                    {
+                                        "cell_id": "1.4.1",
+                                        "cell_text": "APOA2"
+                                    },
+                                    {
+                                        "cell_id": "1.4.2",
+                                        "cell_text": "rs6032680"
+                                    },
+                                    {
+                                        "cell_id": "1.4.3",
+                                        "cell_text": 20.0
+                                    },
+                                    {
+                                        "cell_id": "1.4.4",
+                                        "cell_text": 44215538.0
+                                    },
+                                    {
+                                        "cell_id": "1.4.5",
+                                        "cell_text": "G"
+                                    },
+                                    {
+                                        "cell_id": "1.4.6",
+                                        "cell_text": 0.43
+                                    },
+                                    {
+                                        "cell_id": "1.4.7",
+                                        "cell_text": "−0.394 (0.079)"
+                                    },
+                                    {
+                                        "cell_id": "1.4.8",
+                                        "cell_text": 696.0
+                                    },
+                                    {
+                                        "cell_id": "1.4.9",
+                                        "cell_text": "5.82 × 10<sup>−7</sup>"
+                                    },
+                                    {
+                                        "cell_id": "1.4.10",
+                                        "cell_text": "20 kb downstream of CDH22"
+                                    }
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "offset": 248,
+                    "infons": {
+                        "section_title_1": "table_footer",
+                        "iao_name_1": "caption",
+                        "iao_id_1": "IAO:0000304"
+                    },
+                    "text": "Note: SNPs having p value < 1×10<sup>−6</sup> in the association analysis of inverse normal transformed absolute intra pair differences. SE: standard error of effect estimate, beta. N: number of individuals; HDL: High density lipoprotein. TC: Total cholesterol. APOA2: Apolipoprotein A2.",
+                    "annotations": [],
+                    "relations": []
+                }
+            ],
+            "annotations": [],
+            "relations": []
+        },
+        {
+            "inputFile": "/home/tr142/Downloads/50gwasHTML/PMC4333218.html",
+            "id": "3_1",
+            "infons": {},
+            "passages": [
+                {
+                    "offset": 0,
+                    "infons": {
+                        "section_title_1": "table_title",
+                        "iao_name_1": "document title",
+                        "iao_id_1": "IAO:0000305"
+                    },
+                    "text": "Table 3",
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 7,
+                    "infons": {
+                        "section_title_1": "table_caption",
+                        "iao_name_1": "caption",
+                        "iao_id_1": "IAO:0000304"
+                    },
+                    "text": "Effects of the Genome-Wide Significant SNPs in SRGAP2 Gene in the Six Twin Cohorts",
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 89,
+                    "infons": {
+                        "section_title_1": "table_content",
+                        "iao_name_1": "table",
+                        "iao_id_1": "IAO:0000306"
+                    },
+                    "annotations": [],
+                    "relations": [],
+                    "column_headings": [
+                        {
+                            "cell_id": "1.1.1",
+                            "cell_text": "SNP"
+                        },
+                        {
+                            "cell_id": "1.1.2",
+                            "cell_text": "AustraliaBeta (SE)"
+                        },
+                        {
+                            "cell_id": "1.1.3",
+                            "cell_text": "UKBeta (SE)"
+                        },
+                        {
+                            "cell_id": "1.1.4",
+                            "cell_text": "SwedenBeta (SE)"
+                        },
+                        {
+                            "cell_id": "1.1.5",
+                            "cell_text": "FinlandBeta (SE)"
+                        },
+                        {
+                            "cell_id": "1.1.6",
+                            "cell_text": "DenmarkBeta (SE)"
+                        }
+                    ],
+                    "data_section": [
+                        {
+                            "annotations": [],
+                            "relations": [],
+                            "data_rows": [
+                                [
+                                    {
+                                        "cell_id": "1.1.1",
+                                        "cell_text": "rs2483058"
+                                    },
+                                    {
+                                        "cell_id": "1.1.2",
+                                        "cell_text": "0.140 (0.073)"
+                                    },
+                                    {
+                                        "cell_id": "1.1.3",
+                                        "cell_text": "0.213 (0.078)"
+                                    },
+                                    {
+                                        "cell_id": "1.1.4",
+                                        "cell_text": "0.227 (0.084)"
+                                    },
+                                    {
+                                        "cell_id": "1.1.5",
+                                        "cell_text": "0.219 (0.133)"
+                                    },
+                                    {
+                                        "cell_id": "1.1.6",
+                                        "cell_text": "0.265 (0.119)"
+                                    }
+                                ],
+                                [
+                                    {
+                                        "cell_id": "1.2.1",
+                                        "cell_text": "rs9242"
+                                    },
+                                    {
+                                        "cell_id": "1.2.2",
+                                        "cell_text": "0.122 (0.070)"
+                                    },
+                                    {
+                                        "cell_id": "1.2.3",
+                                        "cell_text": "0.226 (0.076)"
+                                    },
+                                    {
+                                        "cell_id": "1.2.4",
+                                        "cell_text": "0.246(0.085)"
+                                    },
+                                    {
+                                        "cell_id": "1.2.5",
+                                        "cell_text": "0.164 (0.135)"
+                                    },
+                                    {
+                                        "cell_id": "1.2.6",
+                                        "cell_text": "0.234 (0.115)"
+                                    }
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "offset": 244,
+                    "infons": {
+                        "section_title_1": "table_footer",
+                        "iao_name_1": "caption",
+                        "iao_id_1": "IAO:0000304"
+                    },
+                    "text": "Note: Cohort wise results of the SNPs having p value < 5×10<sup>−7</sup> in the association analysis of inverse normal transformed absolute intra pair differences. SE: standard error of the effect estimate, beta.",
+                    "annotations": [],
+                    "relations": []
+                }
+            ],
+            "annotations": [],
+            "relations": []
+        },
+        {
+            "inputFile": "/home/tr142/Downloads/50gwasHTML/PMC4333218.html",
+            "id": "4_1",
+            "infons": {},
+            "passages": [
+                {
+                    "offset": 0,
+                    "infons": {
+                        "section_title_1": "table_title",
+                        "iao_name_1": "document title",
+                        "iao_id_1": "IAO:0000305"
+                    },
+                    "text": "Table 4",
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 7,
+                    "infons": {
+                        "section_title_1": "table_caption",
+                        "iao_name_1": "caption",
+                        "iao_id_1": "IAO:0000304"
+                    },
+                    "text": "Replication of rs2483058 Association on HDL-Variability in Additional Twin Datasets",
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 90,
+                    "infons": {
+                        "section_title_1": "table_content",
+                        "iao_name_1": "table",
+                        "iao_id_1": "IAO:0000306"
+                    },
+                    "annotations": [],
+                    "relations": [],
+                    "column_headings": [
+                        {
+                            "cell_id": "1.1.1",
+                            "cell_text": "Cohort"
+                        },
+                        {
+                            "cell_id": "1.1.2",
+                            "cell_text": "Sex"
+                        },
+                        {
+                            "cell_id": "1.1.3",
+                            "cell_text": "Effect allele"
+                        },
+                        {
+                            "cell_id": "1.1.4",
+                            "cell_text": "Beta"
+                        },
+                        {
+                            "cell_id": "1.1.5",
+                            "cell_text": "SE"
+                        },
+                        {
+                            "cell_id": "1.1.6",
+                            "cell_text": "N"
+                        },
+                        {
+                            "cell_id": "1.1.7",
+                            "cell_text": "P value"
+                        }
+                    ],
+                    "data_section": [
+                        {
+                            "annotations": [],
+                            "relations": [],
+                            "data_rows": [
+                                [
+                                    {
+                                        "cell_id": "1.1.1",
+                                        "cell_text": "Finnish Twin cohort"
+                                    },
+                                    {
+                                        "cell_id": "1.1.2",
+                                        "cell_text": "Male"
+                                    },
+                                    {
+                                        "cell_id": "1.1.3",
+                                        "cell_text": "C"
+                                    },
+                                    {
+                                        "cell_id": "1.1.4",
+                                        "cell_text": -0.012
+                                    },
+                                    {
+                                        "cell_id": "1.1.5",
+                                        "cell_text": 0.171
+                                    },
+                                    {
+                                        "cell_id": "1.1.6",
+                                        "cell_text": 65.0
+                                    },
+                                    {
+                                        "cell_id": "1.1.7",
+                                        "cell_text": 0.944
+                                    }
+                                ],
+                                [
+                                    {
+                                        "cell_id": "1.2.1",
+                                        "cell_text": "Finnish Twin cohort"
+                                    },
+                                    {
+                                        "cell_id": "1.2.2",
+                                        "cell_text": "Female"
+                                    },
+                                    {
+                                        "cell_id": "1.2.3",
+                                        "cell_text": "C"
+                                    },
+                                    {
+                                        "cell_id": "1.2.4",
+                                        "cell_text": 0.14
+                                    },
+                                    {
+                                        "cell_id": "1.2.5",
+                                        "cell_text": 0.156
+                                    },
+                                    {
+                                        "cell_id": "1.2.6",
+                                        "cell_text": 87.0
+                                    },
+                                    {
+                                        "cell_id": "1.2.7",
+                                        "cell_text": 0.369
+                                    }
+                                ],
+                                [
+                                    {
+                                        "cell_id": "1.3.1",
+                                        "cell_text": "Swedish Twin Registry"
+                                    },
+                                    {
+                                        "cell_id": "1.3.2",
+                                        "cell_text": "Male"
+                                    },
+                                    {
+                                        "cell_id": "1.3.3",
+                                        "cell_text": "C"
+                                    },
+                                    {
+                                        "cell_id": "1.3.4",
+                                        "cell_text": 0.078
+                                    },
+                                    {
+                                        "cell_id": "1.3.5",
+                                        "cell_text": 0.047
+                                    },
+                                    {
+                                        "cell_id": "1.3.6",
+                                        "cell_text": 562.0
+                                    },
+                                    {
+                                        "cell_id": "1.3.7",
+                                        "cell_text": 0.1
+                                    }
+                                ],
+                                [
+                                    {
+                                        "cell_id": "1.4.1",
+                                        "cell_text": "Swedish Twin Registry"
+                                    },
+                                    {
+                                        "cell_id": "1.4.2",
+                                        "cell_text": "Female"
+                                    },
+                                    {
+                                        "cell_id": "1.4.3",
+                                        "cell_text": "C"
+                                    },
+                                    {
+                                        "cell_id": "1.4.4",
+                                        "cell_text": 0.032
+                                    },
+                                    {
+                                        "cell_id": "1.4.5",
+                                        "cell_text": 0.046
+                                    },
+                                    {
+                                        "cell_id": "1.4.6",
+                                        "cell_text": 547.0
+                                    },
+                                    {
+                                        "cell_id": "1.4.7",
+                                        "cell_text": 0.483
+                                    }
+                                ],
+                                [
+                                    {
+                                        "cell_id": "1.6.1",
+                                        "cell_text": "Meta"
+                                    },
+                                    {
+                                        "cell_id": "1.6.2",
+                                        "cell_text": ""
+                                    },
+                                    {
+                                        "cell_id": "1.6.3",
+                                        "cell_text": "C"
+                                    },
+                                    {
+                                        "cell_id": "1.6.4",
+                                        "cell_text": 0.098
+                                    },
+                                    {
+                                        "cell_id": "1.6.5",
+                                        "cell_text": 0.032
+                                    },
+                                    {
+                                        "cell_id": "1.6.6",
+                                        "cell_text": 1261.0
+                                    },
+                                    {
+                                        "cell_id": "1.6.7",
+                                        "cell_text": 0.002
+                                    }
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "offset": 172,
+                    "infons": {
+                        "section_title_1": "table_footer",
+                        "iao_name_1": "caption",
+                        "iao_id_1": "IAO:0000304"
+                    },
+                    "text": "Note: HDL-variability association results for rs2483058 in two additional monozygotic twin datasets. SE: standard error of effect estimate, beta. N: number of individuals.",
+                    "annotations": [],
+                    "relations": []
+                }
+            ],
+            "annotations": [],
+            "relations": []
+        },
+        {
+            "inputFile": "/home/tr142/Downloads/50gwasHTML/PMC4333218.html",
+            "id": "5_1",
+            "infons": {},
+            "passages": [
+                {
+                    "offset": 0,
+                    "infons": {
+                        "section_title_1": "table_title",
+                        "iao_name_1": "document title",
+                        "iao_id_1": "IAO:0000305"
+                    },
+                    "text": "Table 5",
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 7,
+                    "infons": {
+                        "section_title_1": "table_caption",
+                        "iao_name_1": "caption",
+                        "iao_id_1": "IAO:0000304"
+                    },
+                    "text": "Genome-Wide Significant Association Analysis Results on Apolipoprotein Levels",
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 84,
+                    "infons": {
+                        "section_title_1": "table_content",
+                        "iao_name_1": "table",
+                        "iao_id_1": "IAO:0000306"
+                    },
+                    "annotations": [
+                        {
+                            "text": "rs9733352",
+                            "infons": {
+                                "type": "genetic_variant",
+                                "identifier": "dbSNP:rs9733352",
+                                "annotator": "GWASMiner@le.ac.uk",
+                                "updated_at": "2022-06-10T16:16:27Z"
+                            },
+                            "id": "V1",
+                            "locations": [
+                                {
+                                    "offset": 0,
+                                    "length": 9,
+                                    "table_element": "table_content",
+                                    "cell_id": "1.1.2"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "4.03 × 10<sup>−8</sup>",
+                            "infons": {
+                                "type": "significance",
+                                "identifier": "PVAL",
+                                "annotator": "GWASMiner@le.ac.uk",
+                                "updated_at": "2022-06-10T16:16:27Z"
+                            },
+                            "id": "S1",
+                            "locations": [
+                                {
+                                    "offset": 0,
+                                    "length": 22,
+                                    "table_element": "table_content",
+                                    "cell_id": "1.1.9"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "rs445925",
+                            "infons": {
+                                "type": "genetic_variant",
+                                "identifier": "dbSNP:rs445925",
+                                "annotator": "GWASMiner@le.ac.uk",
+                                "updated_at": "2022-06-10T16:16:27Z"
+                            },
+                            "id": "V2",
+                            "locations": [
+                                {
+                                    "offset": 0,
+                                    "length": 8,
+                                    "table_element": "table_content",
+                                    "cell_id": "1.2.2"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "1.65 × 10<sup>−14</sup>4.18",
+                            "infons": {
+                                "type": "significance",
+                                "identifier": "PVAL",
+                                "annotator": "GWASMiner@le.ac.uk",
+                                "updated_at": "2022-06-10T16:16:27Z"
+                            },
+                            "id": "S2",
+                            "locations": [
+                                {
+                                    "offset": 0,
+                                    "length": 27,
+                                    "table_element": "table_content",
+                                    "cell_id": "1.2.9"
+                                }
+                            ]
+                        }
+                    ],
+                    "relations": [
+                        {
+                            "id": "R0",
+                            "infons": {
+                                "type": "disease_assoc",
+                                "annotator": "GWASMiner@le.ac.uk",
+                                "updated_at": "2022-06-10T16:16:27Z"
+                            },
+                            "nodes": [
+                                {
+                                    "refid": "V1",
+                                    "role": ""
+                                },
+                                {
+                                    "refid": "S1",
+                                    "role": ""
+                                },
+                                {
+                                    "refid": "T0",
+                                    "role": ""
+                                }
+                            ]
+                        },
+                        {
+                            "id": "R1",
+                            "infons": {
+                                "type": "disease_assoc",
+                                "annotator": "GWASMiner@le.ac.uk",
+                                "updated_at": "2022-06-10T16:16:27Z"
+                            },
+                            "nodes": [
+                                {
+                                    "refid": "V2",
+                                    "role": ""
+                                },
+                                {
+                                    "refid": "S2",
+                                    "role": ""
+                                }
+                            ]
+                        }
+                    ],
+                    "column_headings": [
+                        {
+                            "cell_id": "1.1.1",
+                            "cell_text": "Locus"
+                        },
+                        {
+                            "cell_id": "1.1.2",
+                            "cell_text": "SNP"
+                        },
+                        {
+                            "cell_id": "1.1.3",
+                            "cell_text": "Trait"
+                        },
+                        {
+                            "cell_id": "1.1.4",
+                            "cell_text": "Chromosome"
+                        },
+                        {
+                            "cell_id": "1.1.5",
+                            "cell_text": "Position of the SNP Build 36"
+                        },
+                        {
+                            "cell_id": "1.1.6",
+                            "cell_text": "Effect allele"
+                        },
+                        {
+                            "cell_id": "1.1.7",
+                            "cell_text": "N"
+                        },
+                        {
+                            "cell_id": "1.1.8",
+                            "cell_text": "Beta (SE)"
+                        },
+                        {
+                            "cell_id": "1.1.9",
+                            "cell_text": "P value"
+                        }
+                    ],
+                    "data_section": [
+                        {
+                            "annotations": [],
+                            "relations": [],
+                            "data_rows": [
+                                [
+                                    {
+                                        "cell_id": "1.1.1",
+                                        "cell_text": "DOCK1"
+                                    },
+                                    {
+                                        "cell_id": "1.1.2",
+                                        "cell_text": "rs9733352"
+                                    },
+                                    {
+                                        "cell_id": "1.1.3",
+                                        "cell_text": "APOA2"
+                                    },
+                                    {
+                                        "cell_id": "1.1.4",
+                                        "cell_text": 10.0
+                                    },
+                                    {
+                                        "cell_id": "1.1.5",
+                                        "cell_text": 128667380.0
+                                    },
+                                    {
+                                        "cell_id": "1.1.6",
+                                        "cell_text": "C"
+                                    },
+                                    {
+                                        "cell_id": "1.1.7",
+                                        "cell_text": 444.0
+                                    },
+                                    {
+                                        "cell_id": "1.1.8",
+                                        "cell_text": "0.060 (0.011)"
+                                    },
+                                    {
+                                        "cell_id": "1.1.9",
+                                        "cell_text": "4.03 × 10<sup>−8</sup>"
+                                    }
+                                ],
+                                [
+                                    {
+                                        "cell_id": "1.2.1",
+                                        "cell_text": "APOE/APOC1"
+                                    },
+                                    {
+                                        "cell_id": "1.2.2",
+                                        "cell_text": "rs445925"
+                                    },
+                                    {
+                                        "cell_id": "1.2.3",
+                                        "cell_text": "APOBAPOE"
+                                    },
+                                    {
+                                        "cell_id": "1.2.4",
+                                        "cell_text": 19.0
+                                    },
+                                    {
+                                        "cell_id": "1.2.5",
+                                        "cell_text": 50107480.0
+                                    },
+                                    {
+                                        "cell_id": "1.2.6",
+                                        "cell_text": "G"
+                                    },
+                                    {
+                                        "cell_id": "1.2.7",
+                                        "cell_text": 875573.0
+                                    },
+                                    {
+                                        "cell_id": "1.2.8",
+                                        "cell_text": "0.149 (0.019)−0.229 (0.035)"
+                                    },
+                                    {
+                                        "cell_id": "1.2.9",
+                                        "cell_text": "1.65 × 10<sup>−14</sup>4.18 × 10<sup>−11</sup>"
+                                    }
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "offset": 242,
+                    "infons": {
+                        "section_title_1": "table_footer",
+                        "iao_name_1": "caption",
+                        "iao_id_1": "IAO:0000304"
+                    },
+                    "text": "Note: SNPs having p-value lower than 5×10<sup>−8</sup> in the association analysis of intra pair means of apolipoproteins. N: number of individuals; SE: standard error of the effect estimate, beta; APOA2: apolipoprotein A2; APOB: apolipoprotein B; APOE = apolipoprotein E.",
+                    "annotations": [
+                        {
+                            "text": "APOB",
+                            "infons": {
+                                "type": "trait",
+                                "identifier": "MeSH:D001055",
+                                "annotator": "GWASMiner@le.ac.uk",
+                                "updated_at": "2022-06-10T16:16:27Z"
+                            },
+                            "id": "T0",
+                            "locations": [
+                                {
+                                    "offset": 224,
+                                    "length": 4,
+                                    "table_element": "table_footer",
+                                    "cell_id": null
+                                }
+                            ]
+                        }
+                    ],
+                    "relations": [
+                        {
+                            "id": "R0",
+                            "infons": {
+                                "type": "disease_assoc",
+                                "annotator": "GWASMiner@le.ac.uk",
+                                "updated_at": "2022-06-10T16:16:27Z"
+                            },
+                            "nodes": [
+                                {
+                                    "refid": "V1",
+                                    "role": ""
+                                },
+                                {
+                                    "refid": "S1",
+                                    "role": ""
+                                },
+                                {
+                                    "refid": "T0",
+                                    "role": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "annotations": [],
+            "relations": []
+        }
+    ]
+}

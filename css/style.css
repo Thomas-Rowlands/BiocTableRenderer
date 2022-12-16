@@ -1,0 +1,223 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.landing {
+    width: 60vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.landing .menu-option {
+    border-radius: 0.25em;
+    border-color: black;
+    border-width: 0.2em;
+    border-style: solid;
+    padding: 2em;
+    display: inline-block;
+    margin-top: 15vh;
+    margin-left: 10%;
+    width: 30%;
+    cursor: pointer;
+    -webkit-transition: transform 0.2s ease-in-out;
+    -moz-transition: transform 0.2s ease-in-out;
+    -ms-transition: transform 0.2s ease-in-out;
+    transition: transform 0.2s ease-in-out;
+}
+
+.landing .menu-option:hover {
+    border-color: blue;
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.landing .menu-option:last-child {
+    margin-left: 2em;
+}
+
+.landing .menu-option h3 {
+    font-size: 1.7em;
+    display: block;
+    text-align: center;
+    font-weight: normal;
+}
+
+.landing .menu-option p {
+    font-size: 0.8em;
+    text-align: center;
+}
+
+.file-menu-container {
+    width: 100%;
+    margin-top: 10vh;
+}
+
+.file-menu {
+    width: 20vw;
+    height: 40vh;
+    border: black inset 0.05em;
+    margin-left: auto;
+    margin-right: auto;
+    overflow-y: scroll;
+}
+
+.file-menu-item {
+    cursor: pointer;
+    padding: 0.25em;
+    padding-left: 8%;
+}
+
+.file-menu-item:hover {
+    background-color: darkslateblue;
+    color: white;
+}
+
+.document_background {
+    background-color: white;
+    width: 70%;
+    padding: 4em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 4vh;
+    margin-bottom: 8vh;
+}
+.table-container {
+    overflow-x: auto;
+    width:90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2em;
+    border: solid rgb(131, 147, 221) 0.15em;
+    border-radius: 0.5em;
+    padding-bottom: 1em;
+    background-color: rgb(234, 237, 249);
+}
+
+.blank_canvas {
+    background-color: grey;
+}
+
+.annotation {
+    /* background-color: yellow; */
+    /* padding: 0.25em; */
+    /* border-radius: 3px; */
+    /* border: solid black 1px; */
+    margin: 0 0.4em;
+    padding: 0.3em 0.4em;
+    border-radius: 0.8em 0.3em;
+    background: transparent;
+    background-image: linear-gradient(
+      to right,
+      rgba(255, 225, 0, 0.1),
+      rgba(255, 225, 0, 0.8) 4%,
+      rgba(255, 225, 0, 0.3)
+    );
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
+}
+
+.annotation.inactive {
+    background-color: rgba(255, 255, 0, 0.3) !important;
+}
+
+.annotation.active {
+    border: solid rgba(255, 0, 0) 3px;
+}
+
+.annotation:hover {
+    background-color: yellow !important;
+    cursor: pointer;
+}
+
+connection {
+    border: 0.4em solid #da081ac0;
+    border-radius: 0.7em;
+}
+
+.side-panel {
+    position:fixed;
+    left:0;
+    top: 30vh;
+    width: 12vw;
+    height: 50vh;
+    background-color: rgb(190, 190, 190);
+    border: solid 1px black;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+}
+
+.side-panel-inner-content{
+    background-color: rgb(255, 255, 255);
+    width: 85%;
+    margin-left:auto;
+    margin-right:auto;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    padding-top:0.1em;
+    padding-bottom: 0.1em;
+    margin-top: 5%;
+    border-radius: 7px;
+    height: 85%;
+    max-height: 85%;
+    overflow: scroll;
+}
+
+.side-panel-inner-content h4{
+    text-align: center;
+}
+
+#document-relations{
+    list-style: none;
+    padding-left: 0;
+}
+
+#document-relations li{
+    background-color: rgb(174, 206, 253);
+    border-radius: 4px;
+    padding: 0.1em;
+    text-align: center;
+    margin-top: 0.1em;
+}
+
+#document-relations li:hover{
+    background-color: rgb(112, 165, 245);
+    cursor: pointer;
+}
+
+.menu-btn{
+    background-color: rgb(174, 206, 253);
+    border-radius: 4px;
+    padding: 0.1em;
+    text-align: center;
+    margin-top: 0.3em;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    cursor: pointer;
+}
+
+.menu-btn:hover{
+    background-color: rgb(112, 165, 245);
+}
+#relationship-info {
+    padding-left: 0.1em;
+}
+#relationship-info li{
+    padding-left:2%;
+    font-size: smaller;
+    list-style: none;
+    background-color: rgb(2, 63, 153);
+    color:white;
+    border-radius: 0;
+    padding: 0.1em;
+    text-align: center;
+    margin-top: -1%;
+}
+#relationship-info li:hover{
+    background-color:rgb(2, 63, 153);
+    cursor: initial;
+}
